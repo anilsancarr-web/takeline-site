@@ -1,0 +1,7 @@
+title: Takeline
+description: A teleprompter that stays on your phone
+theme: minima
+plugins:
+  - jekyll-seo-tag
+url: https://anilsancarr-web.github.io
+baseurl: /takeline-site
