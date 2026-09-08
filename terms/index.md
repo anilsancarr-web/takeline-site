@@ -24,7 +24,7 @@ the script does not appear in the recorded file.
 
 The free version never expires: 1080p recording without a watermark, text
 mirroring, three scripts, pause and resume, and the reading line, with each
-take capped at two minutes.
+take capped at one minute.
 
 Takeline Pro adds 4K recording, takes up to an hour, unlimited scripts, video
 mirroring for selfie takes and a custom countdown. It is sold two ways, and

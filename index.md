@@ -11,7 +11,7 @@ while you look at the lens, and it never appears in the recorded video.
 
 Free, and it stays free: 1080p recording with no watermark, text mirroring,
 three scripts, tap-to-pause that resumes where you stopped, a reading line
-under the lens, and takes of up to two minutes. Takeline Pro adds 4K, takes up
+under the lens, and takes of up to one minute. Takeline Pro adds 4K, takes up
 to an hour, unlimited scripts, video mirroring for selfie takes and a
 countdown you set yourself. Buy it once, or subscribe by the year — both
 unlock the same Pro.
