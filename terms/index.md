@@ -6,7 +6,7 @@ permalink: /terms/
 
 # Terms of Use — Takeline
 
-*Last updated: 7 September 2026*
+*Last updated: 8 September 2026*
 
 ## The agreement
 
@@ -22,16 +22,33 @@ the script does not appear in the recorded file.
 
 ## Free and Pro
 
-The free version has no time limit: 1080p recording without a watermark, text
-mirroring, three scripts, pause and resume, and the reading line.
+The free version never expires: 1080p recording without a watermark, text
+mirroring, three scripts, pause and resume, and the reading line, with each
+take capped at two minutes.
 
-**Takeline Pro is a one-time purchase.** It is not a subscription, it does not
-renew, and nothing is charged again. It adds 4K recording, unlimited scripts,
-video mirroring for selfie takes and a custom countdown. Payment is taken by
-Apple at confirmation, at the price shown for your country.
+Takeline Pro adds 4K recording, takes up to an hour, unlimited scripts, video
+mirroring for selfie takes and a custom countdown. It is sold two ways, and
+both unlock the same features:
 
-Pro is tied to your Apple Account. "Restore Purchase" in Settings re-applies
-it on a new device at no cost.
+- **Lifetime** — a single payment. Nothing renews and nothing is charged
+  again.
+- **Yearly** — an auto-renewable subscription, described below.
+
+Payment is taken by Apple at confirmation, at the price shown for your
+country. Pro is tied to your Apple Account; "Restore purchases" in Settings
+re-applies it on a new device at no cost.
+
+## Yearly subscription
+
+The yearly plan is charged to your Apple Account when you confirm the purchase
+and renews automatically for another year at the same price unless you cancel
+it at least 24 hours before the current period ends. You can manage or cancel
+it at any time in your App Store subscription settings, or from "Manage
+subscription" in Takeline's Settings. Cancelling stops the next charge; Pro
+stays active until the end of the period already paid for. There is no free
+trial and no introductory price. If the price ever changes, Apple notifies you
+in advance and, where required, asks for your consent before the new price
+applies.
 
 ## Refunds
 
