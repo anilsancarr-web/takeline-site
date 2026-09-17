@@ -1,5 +1,5 @@
 title: Takeline
-description: A teleprompter that stays on your phone
+description: Read to the lens. The script scrolls over the camera and never lands in your video.
 theme: minima
 plugins:
   - jekyll-seo-tag

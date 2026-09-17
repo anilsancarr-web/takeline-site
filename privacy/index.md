@@ -6,34 +6,40 @@ permalink: /privacy/
 
 # Privacy Policy — Takeline
 
-*Last updated: 7 September 2026*
+*Last updated: 17 September 2026*
 
-## The short version
+Takeline has no account and no server of its own. This page answers the
+questions a teleprompter that records video actually raises.
 
-Takeline has no account and no server of its own. Your scripts and the videos
-you record never leave your iPhone, because there is nowhere for them to go.
-The one thing that does travel is a purchase, and only if you make one.
+## Does the script end up in my video?
 
-## What stays on your device, always
+No. The script is drawn over the camera preview as a separate layer; the
+recording is written by the camera from what the sensor sees. The file never
+contains the text. This is how the app is built, not a setting.
 
-- **Your scripts.** Written and stored on the device. Never uploaded.
-- **Your recordings.** Written by the camera to the device. If you choose
-  "Save to Photos", they go to your own photo library — still on your device
-  or in your own iCloud Photos, under your Apple Account, never to us.
-- **Your settings.** Speed, text size, opacity, countdown, default camera.
+## Where do my recordings go?
 
-There is no sign-up, no login, no profile, and no way for us to read any of
-the above. We could not retrieve your scripts if you asked us to.
+To your iPhone. When you choose "Save to Photos", the take goes into your own
+photo library — on your device or in your own iCloud Photos under your Apple
+Account — never to us. A take you delete on the review screen is removed from
+the device. We have no copy and no way to obtain one.
 
-## What leaves your device
+## Where do my scripts go?
 
-**One thing: a purchase.** If you buy Takeline Pro, the transaction is handled
-by Apple, and the receipt is validated through RevenueCat, our payments
-provider. In that process RevenueCat receives a randomly generated app user
-identifier that is not linked to your name or your Apple Account, the purchase
-receipt, and basic device and country information. This is what makes "Restore
-Purchase" work on a new phone. RevenueCat's privacy policy is at
-<https://www.revenuecat.com/privacy>.
+Nowhere. Scripts are written and stored on the device, along with your
+settings (speed, text size, opacity, countdown, default camera). There is no
+sign-up, no login and no profile. We could not retrieve your scripts if you
+asked us to.
+
+## What does Takeline send anywhere?
+
+**One thing: a purchase, and only if you make one.** If you buy Takeline Pro,
+the transaction is handled by Apple, and the receipt is validated through
+RevenueCat, our payments provider. In that process RevenueCat receives a
+randomly generated app user identifier that is not linked to your name or your
+Apple Account, the purchase receipt, and basic device and country information.
+This is what makes "Restore Purchase" work on a new phone. RevenueCat's privacy
+policy is at <https://www.revenuecat.com/privacy>.
 
 If you never buy anything, Takeline makes no network requests at all.
 
@@ -41,24 +47,24 @@ Opening a link on this page, or the Rate and Contact rows in Settings, hands
 you to Safari, the App Store or Mail. Those are Apple's apps and Apple's
 policies apply once you are there.
 
-## What we do not do
+## What do the camera and microphone permissions cover?
 
-- No analytics SDK. No Firebase, no Google Analytics, no Facebook SDK.
-- No advertising, no ad identifier, no IDFA, no tracking across apps.
-- No crash reporting that sends your content anywhere.
-- No cloud sync, no backup to our servers, no account recovery — none of these
-  exist.
-- We do not sell, rent or share personal data, because we do not hold any.
-
-## Camera, microphone and Photos
-
-- **Camera** is used to show the preview and record. iOS asks first.
-- **Microphone** records audio with your video. iOS asks first, and if you
-  decline, Takeline records silently rather than refusing to work.
+- **Camera** shows the preview under the script and records the video. iOS
+  asks before the first take.
+- **Microphone** records audio with the video. iOS asks first; if you decline,
+  Takeline records silently rather than refusing to work.
 - **Photos** is requested only when you choose to save a take, and only for
-  adding. Takeline does not read your photo library.
+  adding to the library. Takeline does not read your photos.
 
 You can withdraw any of these in iOS Settings at any time.
+
+## Is there any tracking?
+
+No. No analytics SDK — no Firebase, no Google Analytics, no Facebook SDK. No
+advertising, no ad identifier, no IDFA, no tracking across apps. No crash
+reporting that sends your content anywhere. No cloud sync, no backup to our
+servers, no account recovery — none of these exist. We do not sell, rent or
+share personal data, because we do not hold any.
 
 ## Children
 
@@ -76,7 +82,7 @@ any takes still inside it from your device.
 For a purchase, Apple and RevenueCat hold the transaction record. Apple's
 policy is at <https://www.apple.com/legal/privacy/>.
 
-## Changes
+## Changes to this page
 
 If this policy changes, the date at the top changes with it, and the current
 version is always at this address.
