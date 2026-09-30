@@ -20,15 +20,11 @@ what the camera saw — the words are drawn beside the capture, never into it.
 3. Keep the take, save it to Photos, or delete it. Nothing is uploaded and
    there is no account.
 
-## What is free, what is Pro
+## What it costs
 
-Without paying: 1080p recording with no watermark, takes of up to one minute,
-three scripts, text mirroring for a beam-splitter rig, the reading line.
-
-Takeline Pro: 4K recording, takes of up to an hour, unlimited scripts, mirrored
-video for selfie takes, a countdown you set yourself. Pro is sold once, as a
-lifetime purchase, or by the year as a subscription; both unlock the same
-features.
+Takeline is free to download and to look around. Writing and recording need
+Takeline Pro, bought once or by the year; both unlock the same features. The
+yearly plan starts with a 7-day free trial for new subscribers.
 
 ## Support
 
