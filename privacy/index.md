@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Privacy Policy — Takeline
 
-*Last updated: 29 September 2026*
+*Last updated: 16 October 2026*
 
 Takeline has no account and no server of its own. This page answers the
 questions a teleprompter that records video actually raises.
@@ -60,6 +60,14 @@ on the phone so that Pro still works when you open the app offline. This is
 also what makes "Restore purchases" work on a new phone. RevenueCat's privacy
 policy is at <https://www.revenuecat.com/privacy>.
 
+RevenueCat handles this data for Takeline as a service provider, under the
+Data Processing Addendum that is part of its terms
+(<https://www.revenuecat.com/dpa/>). It may process the data only on our
+instructions and must protect it with appropriate security measures: the same
+protection this policy promises. The record is kept while Takeline uses
+RevenueCat and is deleted when that ends, or earlier if you ask (see "Your
+rights" below).
+
 Your scripts, your recordings and the settings you choose in the app are never
 part of these requests.
 
@@ -83,8 +91,8 @@ You can withdraw any of these in iOS Settings at any time.
 No. No analytics SDK — no Firebase, no Google Analytics, no Facebook SDK. No
 advertising, no ad identifier, no IDFA, no tracking across apps. No crash
 reporting that sends your content anywhere. No cloud sync, no backup to our
-servers, no account recovery — none of these exist. We do not sell, rent or
-share personal data, because we do not hold any.
+servers, no account recovery — none of these exist. We do not sell or rent
+personal data, and we share none beyond the purchase checks described above.
 
 ## Children
 
@@ -95,12 +103,18 @@ it collects nothing from anyone, including children.
 ## Your rights
 
 Data-protection law gives you rights to access, correct, export and delete
-your personal data. We hold no personal data about you, so there is nothing
-for us to return or erase. Deleting the app removes your scripts, settings and
-any takes still inside it from your device.
+your personal data. Takeline keeps nothing about you on any server of ours:
+your scripts, settings and any takes still inside the app are on your phone,
+and deleting the app removes them, together with the random identifier.
 
-For a purchase or a free trial, Apple and RevenueCat hold the transaction
-record. Apple's policy is at <https://www.apple.com/legal/privacy/>.
+The one record outside your phone is the RevenueCat record described above.
+To ask what it contains, or to have it deleted, email us at the address
+below. If you bought Pro or started a free trial, give the date and your App
+Store country so we can find it; we then delete it in RevenueCat. Deleting it
+does not cancel a subscription, which you manage in your App Store settings.
+
+Apple keeps its own record of every purchase and trial. Apple's policy is at
+<https://www.apple.com/legal/privacy/>.
 
 ## Changes to this page
 
