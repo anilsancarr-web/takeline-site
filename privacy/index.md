@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Privacy Policy — Takeline
 
-*Last updated: 16 October 2026*
+*Last updated: 19 November 2026*
 
 Takeline has no account and no server of its own. This page answers the
 questions a teleprompter that records video actually raises.
@@ -23,6 +23,33 @@ To your iPhone. When you choose "Save to Photos", the take goes into your own
 photo library — on your device or in your own iCloud Photos under your Apple
 Account — never to us. A take you delete on the review screen is removed from
 the device. We have no copy and no way to obtain one.
+
+## Does Takeline collect face data?
+
+No. Takeline records ordinary video with the iPhone's camera. If you film
+yourself, your face is in that video, as it would be in the Camera app. That
+is the only way a face is involved.
+
+- **No face data is created.** Takeline does not detect, recognize, measure
+  or track faces. It makes no face maps or face geometry, reads no depth data
+  from the TrueDepth camera, does no face tracking, and does not use Face ID.
+- **Use.** The camera shows a live preview under your script. Nothing is
+  recorded until you tap Record, and the video is used for one thing: making
+  the take you asked for and playing it back to you on the review screen.
+- **Storage.** Video is written to the app's own storage on your iPhone. A
+  finished take stays there only while its review screen is open: leaving
+  that screen deletes the app's copy, whether or not you saved the take, and
+  a finished take left behind by a crash is deleted the next time Takeline
+  opens. A take you save goes to your own Photos library. If the app is
+  closed in the middle of a take, an unfinished file can remain in the app's
+  temporary storage on the phone until iOS clears it or you delete the app.
+- **Sharing.** None by us. Takeline never uploads a take and never sends it
+  to us or to any third party. RevenueCat, the purchase service described
+  below, receives no video, audio or image. A take leaves the app only when
+  you save it to Photos or send it yourself through the iOS share sheet.
+- **Retention and deletion.** We receive nothing, so we keep nothing and have
+  nothing to delete. You delete a take on the review screen, a saved take in
+  the Photos app, and everything inside the app by deleting Takeline.
 
 ## Where do my scripts go?
 
